@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594666501 source:c:\users\iwani\dysk google\studia\aiip\podstawy programowania\sorting_algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
